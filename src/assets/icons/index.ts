@@ -1,0 +1,9 @@
+export { default as SVG_CLOSE } from './close.svg';
+export { default as SVG_LIBRE } from './libre.svg';
+export { default as SVG_LIBRE1 } from './libre1.svg';
+export { default as SVG_CARET_DOWN } from './caret-down.svg';
+export { default as SVG_WALLET } from './wallet.svg';
+export { default as SVG_METAMASK } from './metamask.svg';
+export { default as SVG_LOGOUT } from './logout.svg';
+export { default as SVG_SUCCESS } from './success.svg';
+export { default as SVG_TOOLTIP } from './tooltip.svg';

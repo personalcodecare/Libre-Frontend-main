@@ -1,0 +1,62 @@
+{
+  "name": "Complus Tokenlist",
+  "timestamp": "2020-09-20T00:00:00+00:00",
+  "version": {
+    "major": 0,
+    "minor": 3,
+    "patch": 0
+  },
+  "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/complus.png",
+  "keywords": [
+    "complus",
+    "erc20",
+    "bnb",
+    "bsc",
+    "bep20",
+    "avax",
+    "ava labs",
+    "arc20",
+    "huobi",
+    "heco",
+    "hrc20",
+    "polygon",
+    "matic",
+    "default",
+    "token",
+    "list"
+  ],
+  "tokens": [
+    {
+      "name": "Libre Token",
+      "symbol": "LIBRE",
+      "address": "0x8afa62Fa8DdE8888405c899D7Da077A61a87EeD3",
+      "chainId": 43114,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12663.png"
+    },
+    {
+      "name": "AVAX",
+      "symbol": "AVAX",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "chainId": 43114,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/ava/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png"
+    },
+    {
+      "name": "JOE",
+      "symbol": "JOE",
+      "address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
+      "chainId": 43114,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11396.png"
+    },
+    {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "address": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+      "chainId": 43114,
+      "decimals": 6,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png"
+    }
+  ]
+}

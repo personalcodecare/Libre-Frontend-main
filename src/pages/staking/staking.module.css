@@ -1,0 +1,12 @@
+.stakingInfo {
+  background-color: #1d1d1b;
+  background-image: url(../../assets/images/back1.svg);
+  background-repeat: no-repeat;
+  background-position: right;
+}
+
+.availableRewards {
+  background-image: url(../../assets/images/back2.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+}

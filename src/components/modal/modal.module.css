@@ -1,0 +1,11 @@
+.modalContainer {
+  min-width: 400px;
+  min-height: 400px;
+}
+
+@media (max-width: 991px) {
+  .modalContainer {
+    min-width: 300px;
+    min-height: 300px;
+  }
+}
